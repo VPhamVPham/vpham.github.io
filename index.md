@@ -1,5 +1,7 @@
 # Portfolio
 
+![Image](https://github.com/VPwastaken/portfolio/blob/gh-pages/Gaia_Transparaent.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
