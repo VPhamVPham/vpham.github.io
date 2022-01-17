@@ -1,6 +1,6 @@
 # Portfolio
 
-![Image](https://github.com/VPwastaken/portfolio/blob/gh-pages/Gaia_Transparaent.png)
+![Image]()
 
 ### Markdown
 
